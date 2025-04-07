@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-mobile-inbox",
+	"name": "Mobile Inbox",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Adds options to the 'share to obsidian' menu on mobile.",
+	"author": "Adam Silcott",
+	"authorUrl": "https://github.com/adsilcott",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
